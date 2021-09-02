@@ -1,3 +1,3 @@
-# Data-Mining ~ Popular PRogramming Language
+# Data-Mining ~ Popular Programming Language
 
 Angkatan 2020
