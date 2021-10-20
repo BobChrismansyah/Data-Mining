@@ -2,6 +2,7 @@
 
 Angkatan 2020
 
+https://github.com/Nyandwi/machine_learning_complete
 
 # A Complete Machine Learning Package
 
