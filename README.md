@@ -13,10 +13,6 @@ Angkatan 2020
 ![toolss](https://github.com/Nyandwi/machine_learning_complete/blob/main/images/git_cover.png)
 
 
-This is a comprehensive repository containing 30+ notebooks on Python programming, data manipulation, data analysis, data visualization, data cleaning, classical machine learning, Computer Vision and Natural Language Processing(NLP). 
-
-All notebooks were created with the readers in mind. Every notebook starts with a high-level overview of any specific algorithm/concepts being covered. Wherever possible, visuals are used to make things clear. 
-
 
 ## Viewing and Running the Notebooks
 
