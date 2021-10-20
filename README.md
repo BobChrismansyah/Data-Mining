@@ -2,11 +2,13 @@
 
 Angkatan 2020
 
+****************
+
 https://github.com/Nyandwi/machine_learning_complete
 
 # A Complete Machine Learning Package
 
-****************
+
 
 ***Techniques, tools, best practices and everything you need to to learn machine learning!***
 
